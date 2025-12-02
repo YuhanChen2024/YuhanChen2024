@@ -54,6 +54,7 @@
 
 ### :camera: Gaussian Splatting：
 - :star2::two::zero::two::five: - [PMGS](https://arxiv.org/abs/2508.02660)
+- :star2::two::zero::two::five: - [PEGS](https://arxiv.org/abs/2511.17116)
 
 <!-- feed end -->
 
