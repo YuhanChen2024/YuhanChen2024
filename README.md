@@ -53,7 +53,7 @@
 - :star::two::zero::two::three: - [MMFF-NET](https://link.springer.com/article/10.1007/s11760-023-02797-4)
 
 ### :camera: Gaussian Splatting：
-- :star2::two::zero::two::five: - [PMGS](https://arxiv.org/abs/2508.02660)
+- :star2::two::zero::two::five: - [PMGS](https://arxiv.org/abs/2508.02660) </strong> AAAI 2026
 - :star2::two::zero::two::five: - [PEGS](https://arxiv.org/abs/2511.17116)
 
 <!-- feed end -->
