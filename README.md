@@ -48,6 +48,7 @@
 ## :page_facing_up: :page_facing_up: About My Recent Paper
 
 ### :bulb: Low-Level Vision
+- :star::two::zero::two::five: - [UltraFast-LiNET]
 - :star::two::zero::two::four: - [FRR-NET](https://link.springer.com/article/10.1007/s11760-024-03127-y)
 - :star::two::zero::two::four: - [FMR-Net](https://link.springer.com/article/10.1007/s00530-023-01252-1)
 - :star::two::zero::two::three: - [MMFF-NET](https://link.springer.com/article/10.1007/s11760-023-02797-4)
