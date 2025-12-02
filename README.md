@@ -30,6 +30,8 @@
    |                            |  Low-Light Video Enhancement                     |
    |                            |  Low-Light Scene Relighting                      |
    |                            |  Convolutional Kernel Design                     |
+   |                            |  Gaussian Splatting                     |
+   |                            |  GaussianImage                     |
 
 # :office: :runner: :runner: About My Recent work
 
