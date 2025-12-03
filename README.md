@@ -37,10 +37,10 @@
    |                            |  Gaussian Splatting                     |
    |                            |  GaussianImage                     |
 
-# :office: :runner: :runner: About My Recent work
+#  About My Recent work
 
 <!-- feed start -->
-## :newspaper: :newspaper: About My Recent Blog
+## Recent Blog
 
 ### :bulb: Low-Level Vision
 - :star2: - [Low-level视觉之弱光图像增强及常规图像增强（去噪、去模糊、过曝/欠曝、去雨/雾/沙等）从入门到落魄街头系列（纯白话系列）](https://zhuanlan.zhihu.com/p/1944370276402992845)
@@ -51,7 +51,7 @@
 - :star: - [Dust3r文章 + 代码串读（无敌详细/引经据典/疯狂解读）](https://zhuanlan.zhihu.com/p/10245148055)
 - :star: - [外行也能看懂！万字白话串讲SFM到3DGS / 4DGS 动静场景重建（零公式原理细讲/全网最详细）](https://zhuanlan.zhihu.com/p/11477776099)
 
-## :page_facing_up: :page_facing_up: About My Recent Paper
+## Recent Paper
 
 ### :bulb: Low-Level Vision
 - :star::two::zero::two::five: - [UltraFast-LiNET](https://arxiv.org/abs/2512.02965)
