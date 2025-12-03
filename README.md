@@ -4,11 +4,17 @@
 </h1>
 
 
-# :love_hotel: :runner: :runner: About My Recent Status
+# About My Recent Status
 
 <p>&emsp;Hello, my name is Yuhan Chen, a PhD student from Chongqing University :raising_hand:.</p>
-<p>&emsp;My primary research focuses on :point_right:<strong>image processing</strong> and :point_right:<strong>vehicle perception</strong>.</p>
+<p>&emsp;My primary research focuses on :point_right:<strong>low-level Vision</strong> , :point_right:<strong>Vehicle Perception</strong>, and Gaussian Splatting      </p>
+<p>&emsp;Hello, my name is Yuhan Chen, a PhD student from Chongqing University :raising_hand:.</p>
 
+## :fireworks:News:fireworks:
+
+<p>&emsp; :fire: My latest paper, “A Lightweight Real-Time Low-Light Enhancement Network for Embedded Automotive Vision Systems,” has been published on [ArXiv](https://arxiv.org/abs/2512.02965). You’re welcome to cite it.</p>
+<p>&emsp; :fire: My latest paper, co-authored in collaboration with Wuhan University, titled “PEGS: Physics-Event Enhanced Large Spatiotemporal Motion Reconstruction via 3D Gaussian Splatting,” has been published on [ArXiv](https://arxiv.org/abs/2511.17116). You’re welcome to cite it.</p>
+<p>&emsp; :fire: My latest paper, co-authored in collaboration with Wuhan University, titled “PMGS: Reconstruction of Projectile Motion Across Large Spatiotemporal Spans via 3D Gaussian Splatting,” has been published on [ArXiv](https://arxiv.org/abs/2508.02660). You’re welcome to cite it.</p>
 
 <div align="center">
  <a href="https://www.zhihu.com/people/qiao-han-80-16/"><img src="https://img.shields.io/badge/Website-ZHIHU-blue" /></a>&emsp;
@@ -19,12 +25,9 @@
 
 <table>
   
-# :post_office: :runner: :runner: About My Projects
-
-
-## [Low-level GaussianImage](https://github.com/chenyuhan1997/PED)
+## About My Projects
    
-   | Start Time                    | 📌 2023-08-01 —— Present |
+   | Start Time                 | 📌 2023-08-01 —— Present |
    |----------------------------|--------------------------|
    | Research Content           |  Low-Light Image Enhancement                     |
    |                            |  Low-Light Video Enhancement                     |
@@ -50,7 +53,7 @@
 ## :page_facing_up: :page_facing_up: About My Recent Paper
 
 ### :bulb: Low-Level Vision
-- :star::two::zero::two::five: - [UltraFast-LiNET]
+- :star::two::zero::two::five: - [UltraFast-LiNET](https://arxiv.org/abs/2512.02965)
 - :star::two::zero::two::four: - [FRR-NET](https://link.springer.com/article/10.1007/s11760-024-03127-y)
 - :star::two::zero::two::four: - [FMR-Net](https://link.springer.com/article/10.1007/s00530-023-01252-1)
 - :star::two::zero::two::three: - [MMFF-NET](https://link.springer.com/article/10.1007/s11760-023-02797-4)
