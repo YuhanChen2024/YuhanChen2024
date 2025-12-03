@@ -7,7 +7,7 @@
 # About My Recent Status
 
 <p>&emsp;Hello, my name is Yuhan Chen, a PhD student from Chongqing University :raising_hand:.</p>
-<p>&emsp;My primary research focuses on :point_right:<strong>low-level Vision</strong> , :point_right:<strong>Vehicle Perception</strong>, and Gaussian Splatting      </p>
+<p>&emsp;My primary research focuses on :point_right:<strong>low-level Vision</strong> , :point_right:<strong>Vehicle Perception</strong>, and :point_right:<strong>Gaussian Splatting</strong></p>
 <p>&emsp;Hello, my name is Yuhan Chen, a PhD student from Chongqing University :raising_hand:.</p>
 
 ## :fireworks:News:fireworks:
