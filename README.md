@@ -11,7 +11,7 @@
 
 ## :fireworks:News:fireworks:
 
-<p>&emsp; :fire: My latest paper, “A Lightweight Real-Time Low-Light Enhancement Network for Embedded Automotive Vision Systems,” has been published on [Arxiv](https://arxiv.org/abs/2512.02965). You’re welcome to cite it.</p>
+<p>&emsp; :fire: My latest paper, “A Lightweight Real-Time Low-Light Enhancement Network for Embedded Automotive Vision Systems,” has been published on [ArXiv](https://arxiv.org/abs/2512.02965) [Arxiv](https://arxiv.org/abs/2512.02965). You’re welcome to cite it.</p>
 <p>&emsp; :fire: My latest paper, co-authored in collaboration with Wuhan University, titled “PEGS: Physics-Event Enhanced Large Spatiotemporal Motion Reconstruction via 3D Gaussian Splatting,” has been published on [ArXiv](https://arxiv.org/abs/2511.17116). You’re welcome to cite it.</p>
 <p>&emsp; :fire: My latest paper, co-authored in collaboration with Wuhan University, titled “PMGS: Reconstruction of Projectile Motion Across Large Spatiotemporal Spans via 3D Gaussian Splatting,” has been published on [ArXiv](https://arxiv.org/abs/2508.02660). You’re welcome to cite it.</p>
 
