@@ -11,6 +11,10 @@
 
 ## :fireworks:News:fireworks:
 
+&nbsp;&nbsp;🔥 My latest paper, “LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps,” has been published on [arXiv](https://arxiv.org/abs/2601.15766). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 My latest paper, “LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting,” has been published on [arXiv](https://arxiv.org/abs/2601.15772). You’re welcome to cite it.
+
 &nbsp;&nbsp;🔥 My latest paper, “A Lightweight Real-Time Low-Light Enhancement Network for Embedded Automotive Vision Systems,” has been published on [arXiv](https://arxiv.org/abs/2512.02965). You’re welcome to cite it.
 
 &nbsp;&nbsp;🔥 My latest paper, co-authored in collaboration with Wuhan University, titled “PEGS: Physics-Event Enhanced Large Spatiotemporal Motion Reconstruction via 3D Gaussian Splatting,” has been published on [arXiv](https://arxiv.org/abs/2511.17116). You’re welcome to cite it.
@@ -54,6 +58,9 @@
 ## Recent Paper
 
 ### :bulb: Low-Level Vision
+
+- :star::two::zero::two::six: - [LL-GaussianMap](https://arxiv.org/abs/2601.15766)
+- :star::two::zero::two::six: - [LL-GaussianImage](https://arxiv.org/abs/2601.15772)
 - :star::two::zero::two::five: - [UltraFast-LiNET](https://arxiv.org/abs/2512.02965)
 - :star::two::zero::two::four: - [FRR-NET](https://link.springer.com/article/10.1007/s11760-024-03127-y)
 - :star::two::zero::two::four: - [FMR-Net](https://link.springer.com/article/10.1007/s00530-023-01252-1)
