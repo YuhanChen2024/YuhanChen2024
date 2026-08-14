@@ -21,16 +21,22 @@
 
 ## :fireworks:News:fireworks:
 
+> **📢 Announcement · 近三个月动态 / Last 3 Months** &nbsp;·&nbsp; 🕒 Updated: **<!--NOW-->2026-01-01<!--/NOW-->** &nbsp;·&nbsp; Window: **<!--FROM-->2025-10-01<!--/FROM--> → <!--NOW-->2026-01-01<!--/NOW-->**
+>
+> 1. 🎉 **KGS-GCN: Kinematics-Driven Gaussian Splatting and Probabilistic Topology for Skeleton-Based Action Recognition** 被 *IEEE Sensors Journal* 录用 &nbsp;·&nbsp; [💻 Code](https://github.com/YuhanChen2024/KGS-GCN) &nbsp;·&nbsp; [📄 Paper](https://ieeexplore.ieee.org/abstract/document/11602683)
+> 2. 🎉 **UltraFast-LiNET: Light-weight Multi-Scale Shift Convolutional Network for Real-Time Low-Light Image Enhancement** 被 *Optics & Laser Technology* 录用 &nbsp;·&nbsp; [💻 Code](https://github.com/YuhanChen2024/UltraFast-LiNET) &nbsp;·&nbsp; [📄 Paper](https://www.sciencedirect.com/science/article/pii/S0030399226013733)
+> 3. 🛠️ 持续维护中 / Actively maintained: [MMFF-NET](https://github.com/YuhanChen2024/MMFF-NET) &nbsp;·&nbsp; [FMR-NET](https://github.com/YuhanChen2024/FMR-NET) &nbsp;·&nbsp; [FRR-NET](https://github.com/YuhanChen2024/FRR-NET)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chenyuhan1997/chenyuhan1997/main/assets/news-ticker.svg?v=1" width="100%" alt="Latest news (auto-scrolling)"/>
+  <img src="./assets/news-ticker.svg" width="100%" alt="Latest news (auto-scrolling)">
 </p>
 
 <details>
-<summary><b>:open_file_folder: Full news list (clickable links)</b></summary>
+<summary>📜 <b>Full news list (clickable) / 完整新闻列表</b></summary>
 
-&nbsp;&nbsp;🔥🔥 Our paper, “UltraFast-LiNET: ...” has been published in [Optics & Laser Technology](https://www.sciencedirect.com/science/article/abs/pii/S0030399226013733). You’re welcome to cite it.
+&nbsp;&nbsp;🔥🔥 Our paper, “UltraFast-LiNET: ...” has been published in [Optics & Laser Technology](https://www.sciencedirect.com/science/article/abs/pii/S0030399226013733). You're welcome to cite it.
 
-<!-- 把原来 News 段落里的全部 🔥 条目原样搬进这里 -->
+<!-- 把你原来那 25 条 🔥 列表原样粘到这里 -->
 
 </details>
 
