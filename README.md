@@ -11,15 +11,57 @@
 
 ## :fireworks:News:fireworks:
 
-&nbsp;&nbsp;🔥 My latest paper, “LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps,” has been published on [arXiv](https://arxiv.org/abs/2601.15766). You’re welcome to cite it.
+&nbsp;&nbsp;🔥🔥 Our paper, “UltraFast-LiNET: Light-weight multi-scale shift convolutional network for real-time low-light image enhancement,” has been published in [Optics & Laser Technology](https://www.sciencedirect.com/science/article/abs/pii/S0030399226013733). You’re welcome to cite it.
 
-&nbsp;&nbsp;🔥 My latest paper, “LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting,” has been published on [arXiv](https://arxiv.org/abs/2601.15772). You’re welcome to cite it.
+&nbsp;&nbsp;🔥🔥 Our paper, “Shift-window meets dual attention: A multi-model architecture for specular highlight removal,” has been published in [Optics & Laser Technology](https://www.sciencedirect.com/science/article/abs/pii/S0030399226005220). You’re welcome to cite it.
 
-&nbsp;&nbsp;🔥 My latest paper, “A Lightweight Real-Time Low-Light Enhancement Network for Embedded Automotive Vision Systems,” has been published on [arXiv](https://arxiv.org/abs/2512.02965). You’re welcome to cite it.
+&nbsp;&nbsp;🔥🔥 Our paper, “A unified lightweight enhancement–segmentation framework for one-shot recognition in complex outdoor lighting,” has been published in [Multimedia Systems](https://link.springer.com/article/10.1007/s00530-026-02331-9). You’re welcome to cite it.
 
-&nbsp;&nbsp;🔥 My latest paper, co-authored in collaboration with Wuhan University, titled “PEGS: Physics-Event Enhanced Large Spatiotemporal Motion Reconstruction via 3D Gaussian Splatting,” has been published on [arXiv](https://arxiv.org/abs/2511.17116). You’re welcome to cite it.
+&nbsp;&nbsp;🔥🔥 Our paper, “E4DM-VOS: Long-term video object segmentation network with an enhanced four-dimensional memory framework,” has been published in [Optics & Laser Technology](https://www.sciencedirect.com/science/article/abs/pii/S0030399226005219). You’re welcome to cite it.
 
-&nbsp;&nbsp;🔥 My latest paper, co-authored in collaboration with Wuhan University, titled “PMGS: Reconstruction of Projectile Motion Across Large Spatiotemporal Spans via 3D Gaussian Splatting,” has been published on [arXiv](https://arxiv.org/abs/2508.02660). You’re welcome to cite it.
+&nbsp;&nbsp;🔥🔥 Our paper, “KGS-GCN: Kinematics-Driven Gaussian Splatting and Probabilistic Topology for Skeleton-Based Action Recognition,” has been published in [IEEE Sensors Journal](https://doi.org/10.1109/JSEN.2026.3709297). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “From Sparse and Imperfect 2D Anchors to Consistent 3D Gaussian Street Scenes: Support-Aware Appearance,” is now available on [arXiv](https://arxiv.org/abs/2606.26007). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “Gaussian Light Field Splatting: A Physical Prior-Driven Vision Transformer for Unsupervised Low-Light Image Enhancement,” is now available on [arXiv](https://arxiv.org/abs/2606.17985). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “AIGS-Net: Compact Illumination Field Modeling via 2D Gaussian Splatting for Fast Low-Light Image Enhancement,” is now available on [arXiv](https://arxiv.org/abs/2606.17998). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “Fi-Gaussian: Frequency-Aware Implicit Gaussian Splatting for Single Image Dehazing,” is now available on [arXiv](https://arxiv.org/abs/2606.16168). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “Dehaze-GaussianImage: Zero-Shot Dehazing via Efficient 2D Gaussian Splatting Representation,” is now available on [arXiv](https://arxiv.org/abs/2606.16163). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “Continuous Splatting meets Retinex: Continuous Gaussian Splatting and Implicit Reflectance Modeling for Low-Light Image Enhancement,” is now available on [arXiv](https://arxiv.org/abs/2606.16159). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “CFRNet: Cycle-Consistent Fixed-Point Training for Real-Time Blind Face Restoration on Consumer Embedded NPUs,” is now available on [arXiv](https://arxiv.org/abs/2606.06850). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “Rethinking Low-Light Image Enhancement: A Log-Domain Intensity--Chromaticity Decoupling Perspective,” is now available on [arXiv](https://arxiv.org/abs/2605.02627). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “DST-Net: A Dual-Stream Transformer with Illumination-Independent Feature Guidance and Multi-Scale Spatial Convolution for Low-Light Image Enhancement,” is now available on [arXiv](https://arxiv.org/abs/2603.16482). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥🔥 Our paper, “PMGS: Reconstruction of Projectile Motion Across Large Spatiotemporal Spans via 3D Gaussian Splatting,” has been published at [AAAI 2026](https://ojs.aaai.org/index.php/AAAI/article/view/38128). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “GKI-Net: Gaussian Splatting and KAN-based Implicit Neural Representation for Physically Grounded Dehazing,” is now available on [Research Square](https://doi.org/10.21203/rs.3.rs-8958794/v1). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting,” is now available on [arXiv](https://arxiv.org/abs/2601.15772). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps,” is now available on [arXiv](https://arxiv.org/abs/2601.15766). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥🔥 Our paper, “MAF-NET: A Multi-Scale Feature Fusion Network for Low-Light Driving Image Enhancement,” has been published at the [SAE 2025 Intelligent and Connected Vehicles Symposium](https://saemobilus.sae.org/papers/maf-net-a-multi-scale-feature-fusion-network-low-light-driving-image-enhancement-2025-01-7304). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥🔥 Our paper, “GP-LGFusion: Deep Fusion of Infrared-Visible Driving Images Based on Gradient Preservation and Local Guidance,” has been published at the [SAE 2025 Intelligent and Connected Vehicles Symposium](https://doi.org/10.4271/2025-01-7305). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥🔥 Our paper, “Research and Implementation of a Neural Radiance Fields-Based 3D Reconstruction Method for Autonomous Driving Scenes,” has been published at the [SAE 2025 Intelligent and Connected Vehicles Symposium](https://saemobilus.sae.org/papers/research-implementation-a-neural-radiance-fields-based-3d-reconstruction-method-autonomous-driving-scenes-2025-01-7310). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥 Our paper, “PEGS: Physics-Event Enhanced Large Spatiotemporal Motion Reconstruction via 3D Gaussian Splatting,” is available on [arXiv](https://arxiv.org/abs/2511.17116). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥🔥 Our paper, “FRR-NET: a fast reparameterized residual network for low-light image enhancement,” has been published in [Signal, Image and Video Processing](https://link.springer.com/article/10.1007/s11760-024-03127-y). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥🔥 Our paper, “FMR-Net: a fast multi-scale residual network for low-light image enhancement,” has been published in [Multimedia Systems](https://link.springer.com/article/10.1007/s00530-023-01252-1). You’re welcome to cite it.
+
+&nbsp;&nbsp;🔥🔥 Our paper, “MMFF-NET: Multi-layer and multi-scale feature fusion network for low-light infrared image enhancement,” has been published in [Signal, Image and Video Processing](https://link.springer.com/article/10.1007/s11760-023-02797-4). You’re welcome to cite it.
+
+
 
 <div align="center">
  <a href="https://www.zhihu.com/people/qiao-han-80-16/"><img src="https://img.shields.io/badge/Website-ZHIHU-blue" /></a>&emsp;
@@ -35,7 +77,7 @@
    | Start Time                 | 📌 2023-08-01 —— Present |
    |----------------------------|--------------------------|
    | Research Content           |  Low-Light Image Enhancement                     |
-   |                            |  Low-Light Video Enhancement                     |
+   |                            |  Low-Level Vision                     |
    |                            |  Low-Light Scene Relighting                      |
    |                            |  Convolutional Kernel Design                     |
    |                            |  Gaussian Splatting                     |
@@ -59,18 +101,40 @@
 
 ### :bulb: Low-Level Vision
 
-- :star::two::zero::two::six: - [LL-GaussianMap](https://arxiv.org/abs/2601.15766)
-- :star::two::zero::two::six: - [LL-GaussianImage](https://arxiv.org/abs/2601.15772)
-- :star::two::zero::two::five: - [UltraFast-LiNET](https://arxiv.org/abs/2512.02965)
-- :star::two::zero::two::four: - [FRR-NET](https://link.springer.com/article/10.1007/s11760-024-03127-y)
-- :star::two::zero::two::four: - [FMR-Net](https://link.springer.com/article/10.1007/s00530-023-01252-1)
-- :star::two::zero::two::three: - [MMFF-NET](https://link.springer.com/article/10.1007/s11760-023-02797-4)
+- :star::two::zero::two::six: - [UltraFast-LiNET](https://www.sciencedirect.com/science/article/abs/pii/S0030399226013733) - 🤩: Optics & Laser Technology
+- :star::two::zero::two::six: - [Shift-window Meets Dual Attention](https://www.sciencedirect.com/science/article/abs/pii/S0030399226005220) - 🤩: Optics & Laser Technology
+- :star::two::zero::two::six: - [Unified Lightweight Enhancement–Segmentation Framework](https://link.springer.com/article/10.1007/s00530-026-02331-9) - 🤩: Multimedia Systems
+- :star::two::zero::two::six: - [CFRNet](https://arxiv.org/abs/2606.06850)
+- :star::two::zero::two::six: - [Rethinking Low-Light Image Enhancement](https://arxiv.org/abs/2605.02627)
+- :star::two::zero::two::six: - [DST-Net](https://arxiv.org/abs/2603.16482)
+- :star::two::zero::two::five: - [MAF-NET](https://saemobilus.sae.org/papers/maf-net-a-multi-scale-feature-fusion-network-low-light-driving-image-enhancement-2025-01-7304) - 🤩: SAE 2025
+- :star::two::zero::two::five: - [GP-LGFusion](https://doi.org/10.4271/2025-01-7305) - 🤩: SAE 2025
+- :star::two::zero::two::four: - [FRR-NET](https://link.springer.com/article/10.1007/s11760-024-03127-y) - 🤩: Signal, Image and Video Processing
+- :star::two::zero::two::four: - [FMR-Net](https://link.springer.com/article/10.1007/s00530-023-01252-1) - 🤩: Multimedia Systems
+- :star::two::zero::two::four: - [MMFF-NET](https://link.springer.com/article/10.1007/s11760-023-02797-4) - 🤩: Signal, Image and Video Processing
 
-### :camera: Gaussian Splatting：
-- :star2::two::zero::two::five: - [PMGS](https://arxiv.org/abs/2508.02660) - 🤩: AAAI 2026
+### :camera: Gaussian Splatting
+
+- :star2::two::zero::two::six: - [KGS-GCN](https://doi.org/10.1109/JSEN.2026.3709297) - 🤩: IEEE Sensors Journal
+- :star2::two::zero::two::six: - [Support-Aware Appearance](https://arxiv.org/abs/2606.26007)
+- :star2::two::zero::two::six: - [Gaussian Light Field Splatting](https://arxiv.org/abs/2606.17985)
+- :star2::two::zero::two::six: - [AIGS-Net](https://arxiv.org/abs/2606.17998)
+- :star2::two::zero::two::six: - [Fi-Gaussian](https://arxiv.org/abs/2606.16168)
+- :star2::two::zero::two::six: - [Dehaze-GaussianImage](https://arxiv.org/abs/2606.16163)
+- :star2::two::zero::two::six: - [Continuous Splatting Meets Retinex](https://arxiv.org/abs/2606.16159)
+- :star2::two::zero::two::six: - [PMGS](https://ojs.aaai.org/index.php/AAAI/article/view/38128) - 🤩: AAAI 2026
+- :star2::two::zero::two::six: - [GKI-Net](https://doi.org/10.21203/rs.3.rs-8958794/v1)
+- :star2::two::zero::two::six: - [LL-GaussianImage](https://arxiv.org/abs/2601.15772)
+- :star2::two::zero::two::six: - [LL-GaussianMap](https://arxiv.org/abs/2601.15766)
 - :star2::two::zero::two::five: - [PEGS](https://arxiv.org/abs/2511.17116)
 
+### :movie_camera: Visual Perception & 3D Reconstruction
+
+- :star::two::zero::two::six: - [E4DM-VOS](https://www.sciencedirect.com/science/article/abs/pii/S0030399226005219) - 🤩: Optics & Laser Technology
+- :star::two::zero::two::five: - [NeRF-based 3D Reconstruction for Autonomous Driving Scenes](https://saemobilus.sae.org/papers/research-implementation-a-neural-radiance-fields-based-3d-reconstruction-method-autonomous-driving-scenes-2025-01-7310) - 🤩: SAE 2025
+
 <!-- feed end -->
+
 
 :information_desk_person: **I'm a :smiley_cat: of the deep night** 
 :date: **I work every day** 
