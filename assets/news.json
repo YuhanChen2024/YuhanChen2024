@@ -1,0 +1,30 @@
+{
+  "generated": "2026-07-01",
+  "items": [
+    {"emoji": "🔥🔥", "year": "2026", "title": "UltraFast-LiNET: Light-weight multi-scale shift convolutional network for real-time LLIE", "venue": "Optics & Laser Technology"},
+    {"emoji": "🔥🔥", "year": "2026", "title": "Shift-window meets dual attention: multi-model architecture for specular highlight removal", "venue": "Optics & Laser Technology"},
+    {"emoji": "🔥🔥", "year": "2026", "title": "A unified lightweight enhancement-segmentation framework for one-shot recognition", "venue": "Multimedia Systems"},
+    {"emoji": "🔥🔥", "year": "2026", "title": "E4DM-VOS: Long-term VOS with an enhanced four-dimensional memory framework", "venue": "Optics & Laser Technology"},
+    {"emoji": "🔥🔥", "year": "2026", "title": "KGS-GCN: Kinematics-driven Gaussian splatting for skeleton-based action recognition", "venue": "IEEE Sensors Journal"},
+    {"emoji": "🔥🔥", "year": "2026", "title": "PMGS: Reconstruction of projectile motion across large spatiotemporal spans via 3DGS", "venue": "AAAI 2026"},
+    {"emoji": "🔥", "year": "2026", "title": "Support-Aware Appearance: from sparse 2D anchors to consistent 3D Gaussian street scenes", "venue": "arXiv"},
+    {"emoji": "🔥", "year": "2026", "title": "Gaussian Light Field Splatting: physical prior-driven ViT for unsupervised LLIE", "venue": "arXiv"},
+    {"emoji": "🔥", "year": "2026", "title": "AIGS-Net: compact illumination field modeling via 2D Gaussian splatting", "venue": "arXiv"},
+    {"emoji": "🔥", "year": "2026", "title": "Fi-Gaussian: frequency-aware implicit Gaussian splatting for single image dehazing", "venue": "arXiv"},
+    {"emoji": "🔥", "year": "2026", "title": "Dehaze-GaussianImage: zero-shot dehazing via efficient 2D Gaussian splatting", "venue": "arXiv"},
+    {"emoji": "🔥", "year": "2026", "title": "Continuous Splatting meets Retinex: implicit reflectance modeling for LLIE", "venue": "arXiv"},
+    {"emoji": "🔥", "year": "2026", "title": "CFRNet: cycle-consistent fixed-point training for real-time blind face restoration", "venue": "arXiv"},
+    {"emoji": "🔥", "year": "2026", "title": "Rethinking LLIE: a log-domain intensity-chromaticity decoupling perspective", "venue": "arXiv"},
+    {"emoji": "🔥", "year": "2026", "title": "DST-Net: dual-stream Transformer with illumination-independent feature guidance", "venue": "arXiv"},
+    {"emoji": "🔥", "year": "2026", "title": "GKI-Net: Gaussian splatting and KAN-based INR for physically grounded dehazing", "venue": "Research Square"},
+    {"emoji": "🔥", "year": "2026", "title": "LL-GaussianImage: efficient image representation for zero-shot low-light enhancement", "venue": "arXiv"},
+    {"emoji": "🔥", "year": "2026", "title": "LL-GaussianMap: zero-shot LLIE via 2D Gaussian splatting guided gain maps", "venue": "arXiv"},
+    {"emoji": "🔥🔥", "year": "2025", "title": "MAF-NET: multi-scale feature fusion network for low-light driving image enhancement", "venue": "SAE 2025 ICVS"},
+    {"emoji": "🔥🔥", "year": "2025", "title": "GP-LGFusion: deep fusion of infrared-visible driving images", "venue": "SAE 2025 ICVS"},
+    {"emoji": "🔥🔥", "year": "2025", "title": "NeRF-based 3D reconstruction for autonomous driving scenes", "venue": "SAE 2025 ICVS"},
+    {"emoji": "🔥", "year": "2025", "title": "PEGS: physics-event enhanced large spatiotemporal motion reconstruction via 3DGS", "venue": "arXiv"},
+    {"emoji": "🔥🔥", "year": "2024", "title": "FRR-NET: a fast reparameterized residual network for low-light image enhancement", "venue": "Signal, Image and Video Processing"},
+    {"emoji": "🔥🔥", "year": "2024", "title": "FMR-Net: a fast multi-scale residual network for low-light image enhancement", "venue": "Multimedia Systems"},
+    {"emoji": "🔥🔥", "year": "2023", "title": "MMFF-NET: multi-layer and multi-scale feature fusion network for infrared enhancement", "venue": "Signal, Image and Video Processing"}
+  ]
+}
