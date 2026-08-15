@@ -35,19 +35,19 @@
 
 <br/>
 
-> ### 🎉 `2026-07-02` &nbsp;|&nbsp; Paper Accepted
+> ### 🎉 `2026-07-19` &nbsp;|&nbsp; Paper Accepted
 > **UltraFast-LiNET: Light-weight Multi-Scale Shift Convolutional Network for Real-Time Low-Light Image Enhancement**
 > Accepted by ***Optics & Laser Technology***.
 > [![Paper](https://img.shields.io/badge/Paper-ScienceDirect-FF6C00?style=flat-square&logo=elsevier&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0030399226013733)
 > [![Code](https://img.shields.io/badge/Code-UltraFast--LiNET-181717?style=flat-square&logo=github)](https://github.com/YuhanChen2024/UltraFast-LiNET)
 
-> ### 🎉 `2026-06-18` &nbsp;|&nbsp; Paper Accepted
+> ### 🎉 `2026-06-29` &nbsp;|&nbsp; Paper Accepted
 > **KGS-GCN: Kinematics-Driven Gaussian Splatting and Probabilistic Topology for Skeleton-Based Action Recognition**
 > Accepted by ***IEEE Sensors Journal***.
 > [![Paper](https://img.shields.io/badge/Paper-IEEE%20Xplore-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11602683)
 > [![Code](https://img.shields.io/badge/Code-KGS--GCN-181717?style=flat-square&logo=github)](https://github.com/YuhanChen2024/KGS-GCN)
 
-> ### 🛠️ `2026-07-10` &nbsp;|&nbsp; Repository Maintenance (Ongoing)
+> ### 🛠️ `2026-08-15` &nbsp;|&nbsp; Repository Maintenance (Ongoing)
 > We keep actively maintaining our low-light enhancement series. Issues and PRs are welcome!
 > [![MMFF-NET](https://img.shields.io/badge/MMFF--NET-Maintained-2EA44F?style=flat-square&logo=github)](https://github.com/YuhanChen2024/MMFF-NET)
 > [![FMR-NET](https://img.shields.io/badge/FMR--NET-Maintained-2EA44F?style=flat-square&logo=github)](https://github.com/YuhanChen2024/FMR-NET)
