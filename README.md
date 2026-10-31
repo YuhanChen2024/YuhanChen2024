@@ -174,9 +174,9 @@
 - :star2::two::zero::two::six: - [Gaussian Light Field Splatting](https://arxiv.org/abs/2606.17985)
 - :star2::two::zero::two::six: - [AIGS-Net](https://arxiv.org/abs/2606.17998)
 - :star2::two::zero::two::six: - [Fi-Gaussian](https://arxiv.org/abs/2606.16168)
-- :star2::two::zero::two::six: - [Dehaze-GaussianImage](https://arxiv.org/abs/2606.16163) - 🤩: Optics & Laser Technology (Accepted) &nbsp;[![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YuhanChen2024/Dehaze-GaussianImage)
+- :star2::two::zero::two::six: - [Dehaze-GaussianImage](https://arxiv.org/abs/2606.16163) - 🤩: Optics & Laser Technology &nbsp;[![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YuhanChen2024/Dehaze-GaussianImage)
 - :star2::two::zero::two::six: - [Continuous Splatting Meets Retinex](https://arxiv.org/abs/2606.16159)
-- :star2::two::zero::two::six: - [PMGS](https://ojs.aaai.org/index.php/AAAI/article/view/38128) - 🤩: AAAI 2026
+- :star2::two::zero::two::six: - [PMGS](https://ojs.aaai.org/index.php/AAAI/article/view/38128) - 🤩: AAAI 2026 &nbsp;[![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/X-Probiotics/PMGS)
 - :star2::two::zero::two::six: - [GKI-Net](https://doi.org/10.21203/rs.3.rs-8958794/v1)
 - :star2::two::zero::two::six: - [LL-GaussianImage](https://arxiv.org/abs/2601.15772)
 - :star2::two::zero::two::six: - [LL-GaussianMap](https://arxiv.org/abs/2601.15766)
