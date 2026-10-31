@@ -38,7 +38,7 @@
 > ### 🎉 `2026-10-21` &nbsp;|&nbsp; Paper Accepted
 > **Dehaze-GaussianImage: Zero-shot dehazing via Explicit 2D Gaussian splatting representation**
 > Accepted by ***[Optics & Laser Technology](https://www.sciencedirect.com/journal/optics-and-laser-technology)***. The code is now open source.
-> [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0030399226021389)
+> [![Paper](https://img.shields.io/badge/Paper-ScienceDirect-FF6C00?style=flat-square&logo=elsevier&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0030399226021389)
 > [![Code](https://img.shields.io/badge/Code-Dehaze--GaussianImage-181717?style=flat-square&logo=github)](https://github.com/YuhanChen2024/Dehaze-GaussianImage)
 
 > ### 🎉 `2026-07-19` &nbsp;|&nbsp; Paper Accepted
