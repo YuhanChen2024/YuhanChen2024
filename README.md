@@ -27,7 +27,7 @@
 
 ---
 
-## 📢 Announcements &nbsp;·&nbsp; 近三个月动态
+## 📢 Announcements &nbsp;·&nbsp; 
 
 <div align="center">
   <sub><b>Rolling window:</b> 2026-05-01 → 2026-07-31 &nbsp;&nbsp;|&nbsp;&nbsp; <b>Last updated:</b> 2026-07-10 (UTC+8)</sub>
@@ -35,15 +35,21 @@
 
 <br/>
 
+> ### 🎉 `2026-10-21` &nbsp;|&nbsp; Paper Accepted
+> **Dehaze-GaussianImage: Zero-shot dehazing via Explicit 2D Gaussian splatting representation**
+> Accepted by ***[Optics & Laser Technology](https://www.sciencedirect.com/journal/optics-and-laser-technology)***. The code is now open source.
+> [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0030399226021389)
+> [![Code](https://img.shields.io/badge/Code-Dehaze--GaussianImage-181717?style=flat-square&logo=github)](https://github.com/YuhanChen2024/Dehaze-GaussianImage)
+
 > ### 🎉 `2026-07-19` &nbsp;|&nbsp; Paper Accepted
 > **UltraFast-LiNET: Light-weight Multi-Scale Shift Convolutional Network for Real-Time Low-Light Image Enhancement**
-> Accepted by ***Optics & Laser Technology***.
+> Accepted by ***[Optics & Laser Technology](https://www.sciencedirect.com/journal/optics-and-laser-technology)***. The code is now open source.
 > [![Paper](https://img.shields.io/badge/Paper-ScienceDirect-FF6C00?style=flat-square&logo=elsevier&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0030399226013733)
 > [![Code](https://img.shields.io/badge/Code-UltraFast--LiNET-181717?style=flat-square&logo=github)](https://github.com/YuhanChen2024/UltraFast-LiNET)
 
 > ### 🎉 `2026-06-29` &nbsp;|&nbsp; Paper Accepted
 > **KGS-GCN: Kinematics-Driven Gaussian Splatting and Probabilistic Topology for Skeleton-Based Action Recognition**
-> Accepted by ***IEEE Sensors Journal***.
+> Accepted by ***[IEEE Sensors Journal](https://xplorestaging.ieee.org/xpl/RecentIssue.jsp?punumber=7361)***. The code is now open source.
 > [![Paper](https://img.shields.io/badge/Paper-IEEE%20Xplore-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11602683)
 > [![Code](https://img.shields.io/badge/Code-KGS--GCN-181717?style=flat-square&logo=github)](https://github.com/YuhanChen2024/KGS-GCN)
 
@@ -75,7 +81,7 @@
 
 &nbsp;&nbsp;🔥 Our paper, “Fi-Gaussian: Frequency-Aware Implicit Gaussian Splatting for Single Image Dehazing,” is now available on [arXiv](https://arxiv.org/abs/2606.16168). You’re welcome to cite it.
 
-&nbsp;&nbsp;🔥 Our paper, “Dehaze-GaussianImage: Zero-Shot Dehazing via Efficient 2D Gaussian Splatting Representation,” is now available on [arXiv](https://arxiv.org/abs/2606.16163). You’re welcome to cite it.
+&nbsp;&nbsp;🔥🔥 Our paper, “Dehaze-GaussianImage: Zero-shot dehazing via Explicit 2D Gaussian splatting representation,” has been published in [Optics & Laser Technology](https://www.sciencedirect.com/science/article/pii/S0030399226021389). You’re welcome to cite it.
 
 &nbsp;&nbsp;🔥 Our paper, “Continuous Splatting meets Retinex: Continuous Gaussian Splatting and Implicit Reflectance Modeling for Low-Light Image Enhancement,” is now available on [arXiv](https://arxiv.org/abs/2606.16159). You’re welcome to cite it.
 
@@ -168,7 +174,7 @@
 - :star2::two::zero::two::six: - [Gaussian Light Field Splatting](https://arxiv.org/abs/2606.17985)
 - :star2::two::zero::two::six: - [AIGS-Net](https://arxiv.org/abs/2606.17998)
 - :star2::two::zero::two::six: - [Fi-Gaussian](https://arxiv.org/abs/2606.16168)
-- :star2::two::zero::two::six: - [Dehaze-GaussianImage](https://arxiv.org/abs/2606.16163)
+- :star2::two::zero::two::six: - [Dehaze-GaussianImage](https://arxiv.org/abs/2606.16163) - 🤩: Optics & Laser Technology (Accepted) &nbsp;[![code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YuhanChen2024/Dehaze-GaussianImage)
 - :star2::two::zero::two::six: - [Continuous Splatting Meets Retinex](https://arxiv.org/abs/2606.16159)
 - :star2::two::zero::two::six: - [PMGS](https://ojs.aaai.org/index.php/AAAI/article/view/38128) - 🤩: AAAI 2026
 - :star2::two::zero::two::six: - [GKI-Net](https://doi.org/10.21203/rs.3.rs-8958794/v1)
